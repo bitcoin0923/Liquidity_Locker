@@ -1,5 +1,3 @@
-This is my skype id
-live:.cid.3566e76c8bc9e577
 
 # Sample Hardhat Project
 
